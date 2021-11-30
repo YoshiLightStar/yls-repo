@@ -1,5 +1,5 @@
 # YoshiLightStar's Arch package repository
-
+A arch repository made for packages I have an interest in or want on my system in a easier way for future use
 ## Install instructions
 Grab my key
 
